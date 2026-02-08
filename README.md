@@ -18,11 +18,11 @@
 
 3) Export environment variables:
    - export OPENAI_API_KEY="YOUR_OPENAI_KEY"
-   - export GOOGLE_MAPS_API_KEY=AIzaSyDXyqfEMDIddIAi-43c_8HTdPWPNB4E25s
+   - export GOOGLE_MAPS_API_KEY="GOOGLE_MAPS_API_KEY"
 
    (Windows PowerShell)
    - setx OPENAI_API_KEY "YOUR_OPENAI_KEY"
-   - setx GOOGLE_MAPS_API_KEY "YOUR_GOOGLE_MAPS_KEY"
+   - setx GOOGLE_MAPS_API_KEY "YOUR_GOOGLE_MAPS_API_KEY"
 
 ## Enable Google Address Validation API
 In Google Cloud Console:

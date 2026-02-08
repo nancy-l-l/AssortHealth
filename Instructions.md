@@ -21,7 +21,7 @@
 
    (Windows PowerShell)
    - setx OPENAI_API_KEY "YOUR_OPENAI_KEY"
-   - setx GOOGLE_MAPS_API_KEY "YOUR_GOOGLE_MAPS_KEY"
+   - setx GOOGLE_MAPS_API_KEY "GOOGLE_MAPS_API_KEY"
 
 ## Enable Google Address Validation API
 In Google Cloud Console:

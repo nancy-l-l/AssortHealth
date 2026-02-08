@@ -16,7 +16,8 @@
 
 3) Export environment variables:
    - export OPENAI_API_KEY="YOUR_OPENAI_KEY"
-   - export GOOGLE_MAPS_API_KEY=AIzaSyDXyqfEMDIddIAi-43c_8HTdPWPNB4E25s
+   - export GOOGLE_MAPS_API_KEY="GOOGLE_MAPS_API_KEY"
+   - (Check uploaded PDF for Google Maps API Key.)
 
    (Windows PowerShell)
    - setx OPENAI_API_KEY "YOUR_OPENAI_KEY"
